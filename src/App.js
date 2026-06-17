@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "@/App.css";
+import "./App.css";
 import { Toaster } from "sonner";
 import { Navbar } from "./components/Navbar";
 import { Hero } from "./components/Hero";
